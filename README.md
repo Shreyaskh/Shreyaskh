@@ -1,5 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shreyas Khadilkar 👋
 
+## About Me
+I'm a Full Stack Developer specializing in Python FASTAPI, Oracle PLSQL, Oracle JET, React. 
+
+## Skills
+- Languages: JavaScript, Python, Oracle PLSQL.
+- Frameworks: Python FastAPI, React, Oracle JET,Oracle ADF
+- Tools: Git, Docker, etc.
+
+## Featured Projects
+- [Milk Procurement System] - Brief description
+- [HappyFarmer] - Brief description
+- [SDDL Portal] - Brief description
+- [Invio] -
+- [eAMExpress] -
+
+## Connect with Me
+- [Gmail](mail-to:shreyaskhadilkar@gmail.com)
 <!--
 **Shreyaskh/Shreyaskh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
